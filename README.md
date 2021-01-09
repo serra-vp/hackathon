@@ -12,7 +12,7 @@ Check out the link below for a list of interesting publicly available API's
 -   `Fork`  this repository.
 -   `Clone`  your fork onto your local machine.
 -   Create a new  `git`  branch named  `submission`.
--   When you're done with the project, push your project and submit the link of your repository here[put link here].
+-   When you're done with the project, `git` push your project and submit the link of your repository here[put link here].
 
 
 ## 🐱‍🏍 Project Requirements 
