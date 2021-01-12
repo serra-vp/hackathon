@@ -2,13 +2,13 @@
 # GIT INSTRUCTION
 
 
-![enter image description here](https://drive.google.com/uc?id=1t_sp7aQm3CtRxwCWK8T7mK3Yk5payvzI)
+![git fork](https://drive.google.com/uc?id=1t_sp7aQm3CtRxwCWK8T7mK3Yk5payvzI)
 1. Click "Fork". This will copy the repository(hackathon) to your repository.
     **Note:** After clicking "Fork" it will redirected you to your repository.
 
 
 ---
-![enter image description here](https://drive.google.com/uc?id=1DGsHui_9qAIBuWsUvycZLZG0JupwJwv8)
+![git clone](https://drive.google.com/uc?id=1DGsHui_9qAIBuWsUvycZLZG0JupwJwv8)
  
  2.  Look for the "Code" button and click. Then copy the link under "HTTPS". 
 ---  
@@ -22,7 +22,7 @@
 ---
  -  Go to your Desktop and look for the `hackathon` folder. All of the file and codes must be under this folder. 
 ----
-![enter image description here](https://drive.google.com/uc?id=13M0NTTKVWYQmaQbG6vF-1KfSKJn-2ywJ)
+![git branch](https://drive.google.com/uc?id=13M0NTTKVWYQmaQbG6vF-1KfSKJn-2ywJ)
 4. On your terminal, 
 - type `git branch submission` this will create a `submission` branch.
 - then type `git checkout submission` to change your current working branch.
@@ -35,4 +35,4 @@
  `git push -u origin submission`
   ---
 
-  :point_right: Know more about GIT: [GIT](https://git-scm.com/docs) 
+  :point_right: Know more about GIT: [GIT](https://git-scm.com/docs)
