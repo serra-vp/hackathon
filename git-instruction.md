@@ -25,7 +25,10 @@
 4. On your terminal, 
 - type `git branch submission` this will create a `submission` branch.
 - then type `git checkout submission` to change your current working branch.
-**Note:** `git branch` will show all the existing branch. branch with an `asterisk` is your current working branch. 
+
+**Note:** 
+- `git branch` will show all the existing branch.
+- branch with an `asterisk` is your current working branch. 
 ---
  5. When you're done. 
  - use `git add .` to add all of your changes(added files) in the `hackathon` folder to the staging area.
@@ -36,4 +39,5 @@
 
   :point_right: Know more about GIT: [GIT](https://git-scm.com/docs)
 
-   
+     
+
