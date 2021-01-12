@@ -12,7 +12,7 @@
  
  2.  Look for the "Code" button and click. Then copy the link under "HTTPS". 
 ---  
-![enter image description here](https://drive.google.com/uc?id=143_62Ceogd4c_3Ih0roUioWWG3BgNDAM)
+![git clone](https://drive.google.com/uc?id=143_62Ceogd4c_3Ih0roUioWWG3BgNDAM)
 
 3. Open your CMD(Windows) or Terminal(Ubuntu). 
  - Type `cd Desktop` to change your working directory.
