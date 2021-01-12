@@ -5,18 +5,17 @@
 ![git fork](https://drive.google.com/uc?id=1t_sp7aQm3CtRxwCWK8T7mK3Yk5payvzI)
 1. Click "Fork". This will copy the repository(hackathon) to your repository.
     **Note:** After clicking "Fork" it will redirected you to your repository.
-
-
 ---
 ![git clone](https://drive.google.com/uc?id=1DGsHui_9qAIBuWsUvycZLZG0JupwJwv8)
  
  2.  Look for the "Code" button and click. Then copy the link under "HTTPS". 
 ---  
-![git clone](https://drive.google.com/uc?id=143_62Ceogd4c_3Ih0roUioWWG3BgNDAM)
+![enter image description here](https://drive.google.com/uc?id=143_62Ceogd4c_3Ih0roUioWWG3BgNDAM)
 
 3. Open your CMD(Windows) or Terminal(Ubuntu). 
  - Type `cd Desktop` to change your working directory.
  - Type `git clone paste_the_link_here`. example: `git clone https://github.com/MikeNetfluence/hackathon.git`
+  
    `git clone` will download the repository to your local file. Make sure that you will run the command in the target directory.
 
 ---
@@ -36,3 +35,5 @@
   ---
 
   :point_right: Know more about GIT: [GIT](https://git-scm.com/docs)
+
+   
